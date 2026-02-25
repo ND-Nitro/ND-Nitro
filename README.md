@@ -1,4 +1,12 @@
-## Hi there 👋
+Good day and welcome 
+
+- 🔭 I’m currently working on my porfolio.
+- 🌱 I’m currently learning how to  become a developer.
+- 👯 I’m looking to collaborate with everyone.
+- 🤔 I’m looking for help with everything that can give me knowlege
+- 💬 Ask me about everything.
+- 📫 How to reach me: contact info will be provided
+- ⚡ Fun fact: worked as a construction worker for 20 years and now i can learn my second wish. 
 
 <!--
 **ND-Nitro/ND-Nitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
