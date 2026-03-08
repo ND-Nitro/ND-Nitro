@@ -1,24 +1,62 @@
-Good day and welcome 
+# 👋 Hey, I'm Steffen
 
-- 🔭 I’m currently working on my porfolio.
-- 🌱 I’m currently learning how to  become a developer.
-- 👯 I’m looking to collaborate with everyone.
-- 🤔 I’m looking for help with everything that can give me knowlege
-- 💬 Ask me about everything.
-- 📫 How to reach me: contact info will be provided
-- ⚡ Fun fact: worked as a construction worker for 20 years and now i can learn my second wish. 
+💻 Frontend Developer in progress  
+📍 Based in Norway  
+🎓 Studying Frontend Development at Noroff  
 
-<!--
-**ND-Nitro/ND-Nitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After spending **20 years working in construction**, I decided to follow my second dream — **learning how to build things on the web**.
 
-Here are some ideas to get you started:
+Now I'm focused on becoming a **frontend developer**, building projects, learning modern tools, and improving my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- 🔭 Building my **developer portfolio**
+- 🌱 Learning **JavaScript and modern frontend development**
+- 🧠 Practicing problem solving and coding every day
+- ⚡ Exploring how websites and applications are built
+
+---
+
+## 🧰 Tech I'm Learning
+
+HTML • CSS • JavaScript  
+APIs • Git • GitHub  
+
+Future goals:
+
+Next.js • React • Tailwind • Full-stack developmen
+
+---
+
+## 🧩 Projects
+
+I'm currently working on several projects while learning:
+
+- 🌐 Personal Portfolio
+- 🧪 Frontend practice projects
+- 🎮 Creative development projects
+
+More projects will be added as I continue learning.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaboration, and meeting other developers.
+
+💬 Feel free to reach out or connect with me.
+
+GitHub: https://github.com/ND-Nitro  
+Portfolio:  
+
+---
+
+## ⚡ Fun Fact
+
+I spent **20 years building things with my hands** in construction.
+
+Now I'm learning to **build things with code instead.** 
+
+Also Streaming and entertain people online.
